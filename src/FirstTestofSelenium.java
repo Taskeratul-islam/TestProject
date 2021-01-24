@@ -93,6 +93,7 @@ public class FirstTestofSelenium {
 		driver.findElement(By.xpath("/html/body/div[1]/div[3]/div[1]/div[2]/form/fieldset/p/input")).click();
 		
 		System.out.println("Assigned Leave Successfully");
+		System.out.println("TestProject");
 
 
 
